@@ -55,3 +55,14 @@ This project follows the **same real flow**.
 
 ## 📂 Project Structure
 
+src/
+│── App.js
+│
+├── pages/
+│ └── UsersDashboard.js
+│
+├── services/
+│ └── userService.js
+│
+└── styles/
+└── users.css
